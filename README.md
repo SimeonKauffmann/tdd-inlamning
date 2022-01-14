@@ -1,46 +1,15 @@
-# Getting Started with Create React App
+# Inlämingsuppgift - Simeon Kauffmann
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Github Repo](https://github.com/SimeonKauffmann/tdd-inlamning)
 
-## Available Scripts
+## User Stories
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- As a user I want to be able to see events because I want to get information about them.
+- As a user I want to be able to create my own events because I want to be able to organise my events
+- As a user I want to be able to show that my event is online or on-site because I want the people to be know.
+- As a user I want to be able to limit the number of people who can attend the event because I don't want more people to come than I can accomodate.
+- As a user I want to be able to register for other peoples events because I want to make sure I get a place at the event.
+- As a user I want to see upcoming events in order of coming soonest because they are most relevant to me.
+- As a user I want to be able to see past events because I want to remember which events I have been to.
+- As a user I want to be able to comment on events because I want to be able to discuss the event with others
+- As a user I want to be able to rate events because I want others to see if an event is good or not.
